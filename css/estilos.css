@@ -1,5 +1,19 @@
+@charset "UTF-8";
 body {
   background-color: #202128;
+}
+
+nav {
+  background-image: url(../img/blanco.svg); /* Ruta al archivo SVG de fondo */
+  padding: 10px; /* Añade espacio interno si lo deseas */
+}
+
+EspacioDelNav {
+  width: 1000px;
+}
+
+probando {
+  display: flex;
 }
 
 /*# sourceMappingURL=estilos.css.map */
