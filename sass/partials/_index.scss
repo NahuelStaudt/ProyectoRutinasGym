@@ -1,0 +1,45 @@
+
+
+.titulo{
+    color: white;
+    display: flex;
+    justify-content:start;
+    margin-top: 20%;
+}
+
+
+.AbajoTitulo{
+    color: #FFD700;
+    display: flex;
+    justify-content:space-around;
+}
+
+
+.DivInicio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.card-1{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    margin-top: 30px;
+}
+
+
+.card-2{
+    margin-top: 50px;
+}
+
+
+.porque{
+    color: white;
+}
+
+
+.DivPorque{
+    display: flex;
+    flex-direction:column;
+}

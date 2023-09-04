@@ -1,19 +1,48 @@
-@charset "UTF-8";
+nav {
+  background-image: url(../img/blanco.svg);
+  padding: 10px;
+}
+
+.titulo {
+  color: white;
+  display: flex;
+  justify-content: start;
+  margin-top: 20%;
+}
+
+.AbajoTitulo {
+  color: #FFD700;
+  display: flex;
+  justify-content: space-around;
+}
+
+.DivInicio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card-1 {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  margin-top: 30px;
+}
+
+.card-2 {
+  margin-top: 50px;
+}
+
+.porque {
+  color: white;
+}
+
+.DivPorque {
+  display: flex;
+  flex-direction: column;
+}
+
 body {
   background-color: #202128;
-}
-
-nav {
-  background-image: url(../img/blanco.svg); /* Ruta al archivo SVG de fondo */
-  padding: 10px; /* Añade espacio interno si lo deseas */
-}
-
-EspacioDelNav {
-  width: 1000px;
-}
-
-probando {
-  display: flex;
 }
 
 /*# sourceMappingURL=estilos.css.map */

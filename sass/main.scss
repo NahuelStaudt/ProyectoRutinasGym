@@ -1,19 +1,8 @@
+@use "partials/nav";
+@use "partials/index";
+
 body{
     background-color: #202128;// #202128 // #202128
 }
 
 
-
-nav {
-    background-image: url(../img/blanco.svg); /* Ruta al archivo SVG de fondo */
-    // background-size: cover; /* Ajusta el tamaño del fondo según el contenedor */
-    // color: white; /* Cambia el color del texto si es necesario */
-    padding: 10px; /* Añade espacio interno si lo deseas */ }
-
-EspacioDelNav{
-    width: 1000px;
-}
-
-probando{
-    display: flex;
-}
