@@ -36,13 +36,13 @@ nav {
   color: white;
 }
 
-.DivPorque {
-  display: flex;
-  flex-direction: column;
-}
-
 body {
   background-color: #202128;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
 }
 
 /*# sourceMappingURL=estilos.css.map */
