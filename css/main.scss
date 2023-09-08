@@ -10,7 +10,7 @@ nav {
   margin-top: 20%;
 }
 
-.AbajoTitulo {
+.subtitulo {
   color: #FFD700;
   display: flex;
   justify-content: space-around;
@@ -32,13 +32,12 @@ nav {
   margin-top: 50px;
 }
 
-.porque {
+.pregunta {
   color: white;
-  display: flex;
-  justify-content:center;
+  width: 100%;
 }
 
-.DivPorque {
+.cuestionario {
   margin-top: 35px;
   width: 100%;
 }
@@ -47,4 +46,4 @@ body {
   background-color: #202128;
 }
 
-/*# sourceMappingURL=estilos.css.map */
+/*# sourceMappingURL=main.scss.map */
