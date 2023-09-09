@@ -1,0 +1,36 @@
+.cardt-text{
+    display:flex;
+    justify-content: center;
+}
+
+.dia-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sub-titulos-pages{
+    width: 100%;
+}
+
+.dia-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.dia-3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.tamaño-cards{
+    width: 100%;
+    height: 100%;
+    width: 288px;
+    height: 262px;
+}

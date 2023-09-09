@@ -1,0 +1,29 @@
+
+
+footer {
+    background-image: url(../img/blanco.svg);
+    padding: 2%;
+    margin-top: 10%;
+    width: 100%;
+
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        .logo-wpp{
+            margin-right: 10px;
+        }
+        .logo-ig{
+            margin-right: 10px;
+        }
+        .logo-fc{
+            margin-right: 10px;
+        }
+        .logos{
+            display: flex;
+        }
+
+}
