@@ -127,11 +127,12 @@ footer {
   justify-content: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   background-color: #202128;
 }
 
-a{
-  text-decoration: none;
-}
 /*# sourceMappingURL=estilos.css.map */
